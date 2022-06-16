@@ -32,7 +32,7 @@ Below is an example of the JavaScript used to calculate the statistics:
 
 
 ## Contributing
-Alan Edelbeck GitHub: https://github.com/edlebeck, 
+Alan Edlebeck GitHub: https://github.com/edlebeck, 
 
 David Williams GitHub: https://github.com/SafteyDav3, 
 
@@ -45,7 +45,6 @@ No tests are currently operational for this application.
 
 ## Links
 
-Link to the GitHub Repository: https://github.com/SafteyDav3/stats-buddy
-
+Link to the GitHub Repository: https://github.com/edlebeck/stats-buddy
 
 Link to the Deployed Heroku: https://red-jaguar-stats-buddy.herokuapp.com/
