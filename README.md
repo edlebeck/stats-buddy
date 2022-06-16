@@ -48,4 +48,4 @@ No tests are currently operational for this application.
 Link to the GitHub Repository: https://github.com/SafteyDav3/stats-buddy
 
 
-Link to the Deployed Heroku: https://nameless-taiga-18247.herokuapp.com/
+Link to the Deployed Heroku: https://red-jaguar-stats-buddy.herokuapp.com/
